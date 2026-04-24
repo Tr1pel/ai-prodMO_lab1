@@ -1,0 +1,4 @@
+function,best_lr
+quadratic_good_6,0.3
+quadratic_bad_4,0.3
+rosenbrock_3,0.1
